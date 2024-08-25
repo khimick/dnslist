@@ -21,3 +21,4 @@ medium.com
 cisco.com
 dell.com
 x.com
+twimg.com
