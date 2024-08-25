@@ -19,3 +19,4 @@ googleapis.com
 doubleclick.net
 medium.com
 cisco.com
+dell.com
