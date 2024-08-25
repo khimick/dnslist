@@ -18,5 +18,4 @@ s.youtube.com
 googleapis.com 
 doubleclick.net
 medium.com
-dell.com
 cisco.com
