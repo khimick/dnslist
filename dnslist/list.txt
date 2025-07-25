@@ -7,15 +7,6 @@ twitter.com
 instagram.com 
 cdninstagram.com 
 www.instagram.com 
-googlevideo.com 
-youtube.com 
-ytimg.com 
-youtubei.googleapis.com 
-youtube-nocookie.com 
-ytimg.l.google.com 
-youtube.googleapis.com 
-s.youtube.com 
-googleapis.com 
 doubleclick.net
 medium.com
 cisco.com
